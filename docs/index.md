@@ -18,6 +18,7 @@ features: # 可选的
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
 ---
+
 <p align="center">
   <a class="become-sponsor" href="/pages/1b12ed/">支持这个项目</a>
 </p>
@@ -41,30 +42,33 @@ postList: none
   <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
 </p>
 
-## 🎖特别用户
+## 🎖 特别用户
+
 ::: cardList 2
+
 ```yaml
 - name: OpenHarmony
   desc: 开放原子开源基金会
   link: https://docs.openharmony.cn/pages/000000/
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
+  bgColor: "#f1f1f1"
+  textColor: "#2A3344"
 - name: MyBatis-Plus官网
   desc: 🚀为简化开发而生
   link: https://baomidou.com/
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
+  bgColor: "#f1f1f1"
+  textColor: "#2A3344"
 - name: Deepin 社区
   desc: Deepin 应用开发技术分享、DTK开发经验等
   link: https://docs.deepin.org
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
+  bgColor: "#f1f1f1"
+  textColor: "#2A3344"
 - name: VForm官网
   desc: 低代码表单优选方案，拖拽式设计，一键生成源码
   link: http://www.vform666.com
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
+  bgColor: "#f1f1f1"
+  textColor: "#2A3344"
 ```
+
 :::
 
 <br/>
