@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /img/plan.png
 heroText: 面试小能手
 tagline: 汇聚各种经典面试题
 actionText: 开始阅读 →
