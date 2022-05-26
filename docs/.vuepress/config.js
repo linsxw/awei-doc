@@ -126,7 +126,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2022, // 博客创建年份
-      copyrightInfo: 'Evan Xu | MIT License', // 博客版权信息，支持a标签
+      copyrightInfo: '小伟同学. | MIT License', // 博客版权信息，支持a标签
     },
     htmlModules,
   },
