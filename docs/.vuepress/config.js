@@ -22,6 +22,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
+      { text: "前端面试题", link: "/pages/edf468/" },
       {
         text: "关于",
         link: "/pages/f7ba78/",
