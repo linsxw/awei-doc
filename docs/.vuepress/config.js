@@ -11,7 +11,7 @@ module.exports = {
   head: [
     // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
     ["link", { rel: "icon", href: "/img/favicon.ico" }], //favicons，资源放在public文件夹
-    ["meta", { name: "keywords", content: "vuepress,theme,blog,vdoing" }],
+    ["meta", { name: "keywords", content: "小伟同学,面试题,Java,Vue,JavaScript,Spring" }],
     ["meta", { name: "theme-color", content: "#11a8cd" }], // 移动浏览器主题颜色
 
     // ['meta', { name: 'wwads-cn-verify', content: '6c4b761a28b734fe93831e3fb400ce87' }], // 广告相关，你可以去掉
