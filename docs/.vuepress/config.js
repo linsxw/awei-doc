@@ -2,17 +2,16 @@ const baiduCode = require("./config/baiduCode.js"); // 百度统计hm码
 const htmlModules = require("./config/htmlModules.js");
 
 module.exports = {
-  theme: "vdoing", // 使用依赖包主题
-  // theme: require.resolve('../../vdoing'), // 使用本地主题
+  theme: "vdoing",
 
   title: "面试小能手",
   description: "一个基于VuePress的 知识管理&博客 主题",
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [
     // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
-    ["link", { rel: "icon", href: "/img/favicon.ico" }], //favicons，资源放在public文件夹
+    ["link", { rel: "icon", href: "/img/favicon.ico" }],
     ["meta", { name: "keywords", content: "小伟同学,面试题,Java,Vue,JavaScript,Spring" }],
-    ["meta", { name: "theme-color", content: "#11a8cd" }], // 移动浏览器主题颜色
+    ["meta", { name: "theme-color", content: "#11a8cd" }], 
 
     // ['meta', { name: 'wwads-cn-verify', content: '6c4b761a28b734fe93831e3fb400ce87' }], // 广告相关，你可以去掉
     // ['script', { src: 'https://cdn.wwads.cn/js/makemoney.js', type: 'text/javascript' }], // 广告相关，你可以去掉
@@ -25,16 +24,15 @@ module.exports = {
       { text: "前端面试题", link: "/pages/edf468/" },
       {
         text: "关于",
-        link: "/pages/f7ba78/",
         items: [
-          { text: "关于作者", link: "/pages/f7ba78/" },
-          { text: "关于文档", link: "/pages/d847e6/" },
+          { text: "关于作者", link: "/pages/about/" },
+          { text: "关于文档", link: "/pages/project/" },
         ],
       },
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: "/img/plan.png", // 导航栏logo
-    repo: "xugaoyi/vuepress-theme-vdoing", // 导航栏右侧生成Github链接
+    repo: "linsxw/awei-doc", // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: "上次更新", // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
 
@@ -122,7 +120,7 @@ module.exports = {
           'div[class*="language-"] pre',
           'div[class*="aside-code"] aside',
         ], // String or Array
-        copyMessage: "复制成功", // default is 'Copy successfully and then paste it for use.'
+        copyMessage: "复制成功了，快去粘贴试试吧~", // default is 'Copy successfully and then paste it for use.'
         duration: 1000, // prompt message display time.
         showInMobile: false, // whether to display on the mobile side, default: false.
       },

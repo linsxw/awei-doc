@@ -6,7 +6,7 @@
 
 本项目聚集了经典的面试题、原理探究、流程分析等。 此项目不定期更新最新面试题、最新技术栈！
 
-- 如有错别字或者好的建议，请[联系站长](https://doc.xhany.cn/pages/f7ba78/)指正！
+- 如有错别字或者好的建议，请[联系站长](#联系站长)指正！
 - 本文可能有些题或者文章是来源于互联网，如有侵犯，请[联系站长](#联系站长)删除！
 - 如果本文帮助到了您、不妨点个`star`
 
@@ -24,8 +24,8 @@
 
 ## 联系站长
 
+<p align="center">
 QQ：804636497
-
 Blog: [访问](https://www.xhany.cn/)
-
 <img src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/linsxw/doc-images/img/202205281856155.jpg" width="200">
+</p>
