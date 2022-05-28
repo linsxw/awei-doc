@@ -54,13 +54,13 @@ postList: none
 ```yaml
 - name: 小伟博客
   desc: 日子还长 你要快乐.
-  avatar: http://q2.qlogo.cn/headimg_dl?dst_uin=1515068009&spec=100
+  avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1515068009&spec=100
   link: https://www.xhany.cn/
   bgColor: "#CBEAFA"
   textColor: "#6854A1"
 - name: 林阿三
   desc: “一位沙雕~”
-  avatar: http://q2.qlogo.cn/headimg_dl?dst_uin=1603889221&spec=100
+  avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=1603889221&spec=100
   link: https://www.linasan.cn/
   bgColor: "#718971"
   textColor: "#fff"
