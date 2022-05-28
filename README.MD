@@ -25,7 +25,5 @@
 ## 联系站长
 
 <p align="center">
-QQ：804636497
-Blog: [访问](https://www.xhany.cn/)
 <img src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/linsxw/doc-images/img/202205281856155.jpg" width="200">
 </p>
