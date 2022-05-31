@@ -20,6 +20,8 @@ postList: none
 
 ## 🎉 精选文章
 
+[JavaScript 数组方法详解 🎁](/pages/6e9437/)
+
 <p align="center">
   <a class="become-sponsor" href="/pages/project/">支持这个项目</a>
 </p>
