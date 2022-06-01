@@ -66,6 +66,12 @@ postList: none
   link: https://www.linasan.cn/
   bgColor: "#718971"
   textColor: "#fff"
+- name: 流浪
+  desc: 帅气而不外露，文雅而不粗鲁。
+  avatar: https://q2.qlogo.cn/headimg_dl?dst_uin=2929999994&spec=100
+  link: https://www.andragon.cn/
+  bgColor: "#219ebc"
+  textColor: "#fff"
 ```
 
 :::
