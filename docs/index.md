@@ -21,6 +21,7 @@ postList: none
 ## 🎉 精选文章
 
 [JavaScript 数组方法详解 🎁](/pages/6e9437/)
+[VsCode 好用插件、主题、图标大推荐 🎉](/pages/988d9e/)
 
 <p align="center">
   <a class="become-sponsor" href="/pages/project/">支持这个项目</a>

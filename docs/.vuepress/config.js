@@ -22,6 +22,7 @@ module.exports = {
     nav: [
       { text: "首页", link: "/" },
       { text: "前端面试题", link: "/pages/edf468/" },
+      { text: "工具推荐", link: "/pages/988d9e/" },
       {
         text: "关于",
         items: [

@@ -22,6 +22,8 @@
 
 [Vue 面试题](https://doc.xhany.cn/pages/2f804f/)
 
+[VsCode 好用插件、主题、图标大推荐 🎉](https://doc.xhany.cn/pages/988d9e/)
+
 ## 联系站长
 
 <p align="center">
