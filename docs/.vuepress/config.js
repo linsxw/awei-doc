@@ -3,14 +3,13 @@ const htmlModules = require("./config/htmlModules.js");
 
 module.exports = {
   theme: "vdoing",
-
-  title: "面试小能手",
-  description: "一个基于VuePress的 知识管理&博客 主题",
+  title: "小伟同学",
+  description: "小伟同学知识库",
   // base: '/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
   head: [
     // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
     ["link", { rel: "icon", href: "/img/favicon.ico" }],
-    ["meta", { name: "keywords", content: "小伟同学,面试题,Java,Vue,JavaScript,Spring" }],
+    ["meta", { name: "keywords", content: "小伟同学,Java,Vue,JavaScript,Spring,知识库,编码技巧,插件分享,学习笔记" }],
     ["meta", { name: "theme-color", content: "#11a8cd" }], 
     ['script', { src: '/js/baidu.js', type: 'text/javascript' }]
     // ['meta', { name: 'wwads-cn-verify', content: '6c4b761a28b734fe93831e3fb400ce87' }], // 广告相关，你可以去掉

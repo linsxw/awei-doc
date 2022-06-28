@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /img/plan.png
-heroText: 面试小能手
-tagline: 助你提高面试能力、提升编码思维
+heroText: 小伟同学
+tagline: 愿你殊途同归，我能和你讲讲来时的路.
 actionText: 开始阅读 →
 actionLink: /pages/read/
 bannerBg: none
@@ -10,8 +10,8 @@ bannerBg: none
 features: # 可选的
   - title: 面试题
     details: 包含前端、Java、计算机网络常见面试题汇总
-  - title: 进阶篇
-    details: 助你了解底层实现、逻辑梳理，提高编码能力
+  - title: 分享
+    details: 分享自用好用教程
   - title: 案例教程
     details: 编写各种案例教程助你深刻了解代码使用
 
