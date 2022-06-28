@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/plan.png
 heroText: 小伟同学
-tagline: 愿你殊途同归，我能和你讲讲来时的路.
+tagline: 积土而为山，积水而为海.
 actionText: 开始阅读 →
 actionLink: /pages/read/
 bannerBg: none
